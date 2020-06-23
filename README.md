@@ -30,10 +30,6 @@
     * **Input Example:** "1": 3, "2": 3, .....
     * **Output Example:** true
 
-6. **Behavior:** 
-    * **Input Example:** 
-    * **Output Example:** 
-
 
 ## Setup and Installation
 

@@ -7,7 +7,3 @@ $(document).ready(function() {
 
 });
 
-let numbers = {
-  "1": 0,
-  "2": 0
-}
